@@ -3,6 +3,8 @@ Features smooth time scale transition.
 
 Accessed through: **Tools > Time Scale Editor**.
 
+<img width="383" height="270" alt="Unity_c01S5ZCEMu" src="https://github.com/user-attachments/assets/22f1a604-35e9-4c61-90a1-e9b9610057fb" />
+
 ## Installation
 ### Method 1: Install via Unity Package Manager (Recommended):
 1. Open UPM in Unity: **Window > Package Management > Package Manager**
